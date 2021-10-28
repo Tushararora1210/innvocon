@@ -1,0 +1,51 @@
+{
+  "name": "data",
+  "children": [
+    {
+      "name": "Techonology",
+      "children": [
+        {
+          "name": "laptop",
+          "children": [
+            {
+              "name": "sale",
+              "value": 19000
+            }
+          ]
+        },
+        {
+          "name": "chair",
+          "children": [
+            {
+              "name": "sale",
+              "value": 30000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Furniture",
+      "children": [
+        {
+          "name": "badge",
+          "children": [
+            {
+              "name": "sale",
+              "value": 2009900
+            }
+          ]
+        },
+        {
+          "name": "bed",
+          "children": [
+            {
+              "name": "sale",
+              "value": 400
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
